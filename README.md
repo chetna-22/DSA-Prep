@@ -1,8 +1,10 @@
-🧠 Data Structures & Algorithms Practice
+**🧠 Data Structures & Algorithms Practice**
+
 Welcome! This is my personal repository for practicing and improving problem-solving skills in Data Structures & Algorithms (DSA).
 I'm actively preparing for interviews at product-based companies (Flipkart, Zomato, Razorpay, etc.), and this repo reflects my focused journey.
 
-📌 Goals
+**📌 Goals**
+
 Strengthen problem-solving skills in Core DSA
 
 Cover all major patterns: Two Pointers, Intervals, DP, Heap, Greedy, Graphs
@@ -11,7 +13,8 @@ Track progress across platforms (LeetCode, GFG)
 
 Build consistency and confidence for coding interviews
 
-🗂️ Topics Covered
+**🗂️ Topics Covered**
+
 Topic	Status	Notes
 Arrays & Strings	✅ Completed	Sliding Window, Prefix Sum
 Two Pointers	🟡 In Progress	
@@ -20,12 +23,14 @@ Dynamic Programming	🟡 Learning	Memo + Tabulation
 Trees & Graphs	🔜 Upcoming	
 Heaps / Greedy	🔜 Upcoming	
 
-📊 Platforms Used
+**📊 Platforms Used**
+
 LeetCode
 
 GeeksForGeeks
 
-🛠️ How to Use
+**🛠️ How to Use**
+
 Each folder contains:
 
 🧩 Problem statement
